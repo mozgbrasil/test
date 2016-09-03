@@ -1,0 +1,11 @@
+{
+    "name": "mozgbrasil/test",
+    "description": "n/a 1",
+    "type": "library",
+    "keywords": ["mozg", "magento"],
+    "homepage": "http://mozg.com.br",
+    "time": "2016-09-02 19:40:04",
+    "license": [
+        "proprietary"
+    ]
+}
