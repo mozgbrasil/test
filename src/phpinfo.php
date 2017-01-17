@@ -1,3 +1,3 @@
 <?php 
 
-echo("<h2>phpinfo 02092016 1727</h2>");
+echo("<h2>phpinfo 17012017 180103</h2>");
