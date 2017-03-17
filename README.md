@@ -45,7 +45,7 @@ Equipe Mozg
 
 ## License
 
-[Comercial License] (LICENSE.txt)
+[Comercial License](LICENSE.txt)
 
 ## Badges
 
